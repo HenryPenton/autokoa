@@ -29,6 +29,8 @@ Place any HTML files inside views and any images, scripts or stylesheets inside 
 
 index.html will be displayed on accessing ```localhost:3000```
 
+Any subsequent pages such as testpage.html will be available under its name minus its identifier i.e. /testpage.
+
 ## Using a run file
 
 Want to use EJS to do some behind the scenes magic?
@@ -63,9 +65,9 @@ module.exports = run;
 
 Inside here you could fetch any data you like and feed it back to the page.
 
-I used the page title inside my homepage with:
+I used the page title on my homepage with:
 
 ```javascript
 <%= title %>
 ```
-Inside the html title field.
+In the html title field.
