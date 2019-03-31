@@ -24,10 +24,9 @@ app.listen(3000);
 
 Replacing 3000 with whatever port number you'd like to listen on.
 
-Make two folders in your root directory, next to index.js
+Make two folders named views and public in your root directory, next to index.js.
 
-.
-+--index.js
-|  +--views
-|  +--public
+Place any HTML files inside views and any images, scripts or stylesheets inside public.
+
+
 ## Using a run file
