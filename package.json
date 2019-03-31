@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/henrypenton/koa-autorouter.git"
+    "url": "git+https://github.com/henrypenton/autokoa.git"
   },
   "author": "Henry Penton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/henrypenton/koa-autorouter/issues"
+    "url": "https://github.com/henrypenton/autokoa/issues"
   },
-  "homepage": "https://github.com/henrypenton/koa-autorouter#readme",
+  "homepage": "https://github.com/henrypenton/autokoa#readme",
   "dependencies": {
     "fs": "0.0.1-security",
     "koa": "^2.7.0",
