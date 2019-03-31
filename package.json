@@ -1,6 +1,6 @@
 {
   "name": "@henrypenton/autokoa",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A very simple site server with EJS support",
   "main": "index.js",
   "scripts": {
