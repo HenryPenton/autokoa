@@ -30,6 +30,7 @@ Place any HTML files inside views and any images, scripts or stylesheets inside 
 index.html will be displayed on accessing ```localhost:3000```
 
 Any subsequent pages such as testpage.html will be available under its name minus its identifier i.e. /testpage.
+If an attempt to access page that doesn't exist is made, the default reaction is to display a file named 404.html - so make sure you create this, even if its empty!
 
 ## Using a run file
 
