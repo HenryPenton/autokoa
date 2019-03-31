@@ -1,6 +1,6 @@
 # AutoKoa
 
-A simple site server
+A simple site server with EJS support
 
 
 ## Installing
@@ -24,4 +24,10 @@ app.listen(3000);
 
 Replacing 3000 with whatever port number you'd like to listen on.
 
+Make two folders in your root directory, next to index.js
+
+.
++--index.js
+|  +--views
+|  +--public
 ## Using a run file
